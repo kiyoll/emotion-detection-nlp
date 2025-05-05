@@ -12,7 +12,7 @@ This project demonstrates a simple text emotion detection system using NLP and a
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/emotion-detection-nlp.git
+git clone https://github.com/kiyoll/emotion-detection-nlp.git
 cd emotion-detection-nlp
 ```
 
